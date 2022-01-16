@@ -14,7 +14,7 @@ I am also passionate about blogging and have published numerous articles.
 - ⚡ I write code without drinking coffee
 
 
-<a href="https://www.linkedin.com/in/timorshahtahib">
+<a href="https://www.linkedin.com/in/t%C4%B1morshah-tahib/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
 </a> &ensp;
 <a href="https://twitter.com/timorshahtahib">
