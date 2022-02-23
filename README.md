@@ -28,7 +28,7 @@ I am also passionate about blogging and have published numerous articles.
 
 ## Tech Stack
  
-I work with many different technologies and languages, but my favorites are **JAVA**, **ANDROID**, **DART**, **Flutter**, and **PYTHOON**.
+I work with many different technologies and languages, but my favorites are **JAVA**, **ANDROID**, **PHP**, **Laravel**, and **PYTHOON**.
 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="JAVA" alt="JAVA Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" title="ANDROID" alt="ANDROID Logo" width="50" /> &emsp;
