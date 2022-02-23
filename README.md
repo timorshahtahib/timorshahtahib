@@ -32,8 +32,8 @@ I work with many different technologies and languages, but my favorites are **JA
 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="JAVA" alt="JAVA Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" title="ANDROID" alt="ANDROID Logo" width="50" /> &emsp;
-<img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector">
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector">
+<img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="50" /> &emsp;
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Pythonn" alt="Tailwind CSS Logo" width="86" /> &emsp;
 
 
