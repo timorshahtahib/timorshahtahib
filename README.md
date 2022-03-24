@@ -38,8 +38,9 @@ I work with many different technologies and languages, but my favorites are **JA
 
 
 ## Most used Technologies 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timorshahtahib&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timorshahtahib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=timorshahtahib&show_icons=true&theme=dracula" alt="GitHub Stats" />
